@@ -7,7 +7,7 @@
 📍 Resido em Manaus, Amazonas, Brazil<br>
 📫 Você pode entrar em contato comigo em [LinkedIn](www.linkedin.com/in/gabriela-oliveira7) ou via [email](mailto:oliveiragabriela869@gmail.com)
 
-### Technologies
+### Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
